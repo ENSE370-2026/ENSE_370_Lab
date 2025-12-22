@@ -270,7 +270,7 @@ UML is a powerful tool for modeling and designing systems, bridging the gap betw
 
 ## Procedure
 
-I have taken and adapted two diagrams from chapters 3 and 4 of *UML Distilled, 3rd ed.* by Martin Fowler. Your first task is to use the class diagram to produce corresponding code, sufficient that you can execute the system and see it working in skeletal form. 
+I have taken and adapted two diagrams from chapters 3 and 4 of *UML Distilled, 3rd ed.* by Martin Fowler. Your first task is to use the class diagram to produce corresponding code, sufficient that you can execute the system and see it working in skeletal form. Use the GitHub Classroom link to create your repository.
 
 <table>
   <tr>
@@ -289,5 +289,5 @@ Next, examine the sequence diagram, and modify your existing code to implement t
 
 During this process, you may find that some modification and/or clarification of some of these classes may be necessary. In that case, you must update the class and sequence diagrams to reflect those changes. I will accept hand-drawn UML diagrams, or you may use a drawing tool like Violet, UMLet, or ArgoUML, etc.
 
-## 2 Deliverables
-- Submit your code and UML documentation to Snoopy.
+## Deliverables
+Complete your assignment and check in and push your code and UML to your repository by the due date.
