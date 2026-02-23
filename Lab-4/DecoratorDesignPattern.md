@@ -379,4 +379,4 @@ Your job is to model this same procedure using the **Decorator Pattern**. If a s
 - Document your design with a **UML Class Diagram**.  
 
 ## Deliverables
-Submit your code and UML documentation to Snoopy. I will post a due date on URCourses.
+Accept the Lab assignment invitation and build your solution in your repository.  Make sure you push your code to your repository server. I will post a due date on URCourses.

@@ -416,7 +416,7 @@ public class Tank {
 - The test code (client) should request all the different tanks to be built and then tested at runtime.  
 - The test code should not have to change as new tanks come online.  
 - Document your design by creating a UML Class Diagram.  
-- Submit your code and UML documentation via Snoopy.  
+- Accept the Lab assignment invitation and build your solution in your repository.  Make sure you push your code to your repository server. I will post a due date on URCourses.  
 
 ---
 
