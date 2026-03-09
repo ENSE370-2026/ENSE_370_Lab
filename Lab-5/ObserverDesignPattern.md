@@ -175,8 +175,7 @@ class TestWeather {
 ## Procedure
 Download the sample application found in the Gamecenter folder. This application is the prototype for an NHL application. Currently, it supports 6 teams and will allow creating games for that day and updating the game scores.
 
-Given the existing application, the objective is to adapt it to provide notifications to an interested user. The way to do this is to modify the code to use the observer design pattern.
+Given the existing application, the objective is to adapt it to provide notifications to an interested user. The way to do this is to modify the code to use the observer design pattern.  Ensure that the interested observer only "displays" the games that it wants.
 
 ## Deliverables
-Submit your code and UML Class Diagram documentation to Snoopy.
-
+Submit your code and UML Class Diagram to your assignment repository.
