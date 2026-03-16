@@ -1,6 +1,6 @@
 ## ENSE 370 - Software Systems Design - Laboratory
 
-# Lab 7: Reverse Engineering
+# Lab 6: Reverse Engineering
 
 ### University of Regina
 ### Faculty of Engineering and Applied Science - Software Systems Engineering
